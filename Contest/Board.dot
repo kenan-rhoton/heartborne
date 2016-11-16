@@ -1,0 +1,16 @@
+graph{
+    {Deck;}
+    {Security;}
+    {Hall2; Hall1;}
+    {CommunicationsRoom; WeaponsBay; MedicalBay;}
+    {Hall4; Hall3;}
+    {CargoBay;}
+    Deck -- Security;
+    Security -- {Hall1, Hall2};
+    Hall1 -- {WeaponsBay, Hall2, CommunicationsRoom};
+    Hall2 -- {MedicalBay, Hall1, CommunicationsRoom};
+    Hall3 -- {WeaponsBay, Hall4, CargoBay};
+    Hall4 -- {MedicalBay, Hall3, CargoBay};
+    Hall3 -- Hall2 [style=dotted];
+    Hall4 -- Hall1 [style=dotted];
+}

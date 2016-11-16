@@ -1,0 +1,27 @@
+Defender (Pawn): Block, Push
+Attacker (Bishop): Rush in any straight line, Swap
+Charger (Queen): Run like a rook, Tackle (push ONE) if more than one square moved, Pin any piece with no free square behind (only one at a time)
+Scorer (Rook): Pass horizontally, Run forward or backward, Step sideways, Carry ball (even diagonally!)
+Keeper (King?): Block, unmoveable
+Ball (-):-
+
+
+Ball can be affected or not by every ability that affects a Unit. The ball may be Stepped on by a Unit any time a Unit and the Ball share a square, making the ball immune to being affected by anything as long as the unit is Stepping on it. The player that controls the Unit is said to Control the Ball. A player that Controls the Ball may move it one square in any direction.
+Scorers have the special Carry and Pass abilities when they are stepping on the ball, allowing them to move with the ball one square in any direction or to move the ball to another unit on the same rank as them (as long as no Blocking opposing Units are in the way)
+
+If the Ball gets to a player's Home Row in any way, that player loses the game.
+
+
+···K···
+·S·C·S·
+·DADAD·
+···b···
+·······
+·DADAD·
+·S·C·S·
+···K···
+
+Where the bottom player moves first and b is the ball (7x8, yeah).
+
+
+VERY DEEP, VERY SLOW
