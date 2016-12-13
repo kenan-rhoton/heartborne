@@ -1,0 +1,26 @@
+# 4X
+
+## Zones
+
+### War zones
+
+One per player, costs Food per Unit
+
+### Resource zones
+
+Structure
+Food
+Energy
+
+### Research zones
+
+Science
+Military
+Economy
+Survival
+
+### Development zones
+
+Expand - Food, Food, Structure, Survival, Economy
+Recruit - Food, Research (Varies)
+
