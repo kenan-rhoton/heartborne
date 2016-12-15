@@ -13,4 +13,3 @@ All actions must affect ALL of these paradigms.
 
 -   All Units exploit their spaces
 -   Moving a Unit is an Explore, Expand and Exterminate action
-

@@ -1,0 +1,69 @@
+# 7x5
+
+7x5 board
+
+Each player has a merchant (starting at their C1), and 4 other units, which are drafted.
+
+If the merchant reaches the other side, that player wins. If a merchant is killed, that player loses.
+
+## Units and movement
+
+### Mercader
+
+XXX
+ ·
+
+### Caballero
+
+ X
+ X
+ X
+ X
+ ·
+X X
+
+### Legionario
+
+   X
+XXX·X
+   X
+
+### Asesino
+
+X   X
+  
+ X·X
+ X X
+
+### Guardia
+
+    X X
+   X . X
+   X   X
+
+### Espadachín
+
+X X
+ X
+X·X
+ X
+
+### Paladín
+
+XXX
+X·X
+ X
+
+### Ladrón
+
+XX    X
+X    X
+   ·
+    X
+
+### Monje
+
+  X
+  X
+X · X
+ X X
