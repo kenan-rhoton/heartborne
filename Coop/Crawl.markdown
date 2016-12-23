@@ -6,28 +6,40 @@
 -   Each class plays EXTREMELY different
 -   Facing events
 -   Multiple resources (Party Health, Items, Spells, ...)
+-   Turns structured in enemy waves (5 one-minute-waves + one two-minute-Boss, then untimed rest)
+-   4-way advancement: Skills for defeating some enemies (Warrior), More Magic options (Wizard), Items (Rogue), Boons (Cleric)
+
+## Random details
+
+-   Wave enemies should be spell ORs, Bosses should have spell ANDs
+-   4 direction disc for the battlefield, which represents the heroes' positions and the enemies' distance
+-   Fighter communicates everything and manages the battlefield
+-   Wizard must obsess over finding the best possible spell combinations to off as many enemies as possible and retain as many cards as possible
+-   Rogue tries to find the best possible Item combinations and disarm Traps as well as scout for information
+-   Cleric must figure out which Boons are the most useful to the team and manage everyone's health costs, as well as place the Wards optimally
 
 ## Classes
 
 ### Fighter
 
 -   Your main job is to Hold off enemy monsters and direct the fights
--   Manages Strength
+-   Manages Strength and Skills
+-   Manages the battlefield disc
 
 ### Wizard
 
 -   Your main job is to manage, prepare and cast spells
--   Manages Intellect
+-   You are the main enemy-defeater
 
 ### Rogue
 
 -   Your main job is to disable traps, scout and manage items
--   Manages Cunning
+-   Manages item advancement
 
 ### Cleric
 
 -   Your main job is to manage the party's health and develop wards
--   Manages Health
+-   Manages Health and Boons
 
 ## Events
 
