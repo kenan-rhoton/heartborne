@@ -23,22 +23,32 @@
 ### Fighter
 
 -   Your main job is to Hold off enemy monsters and direct the fights
--   Manages Strength and Skills
+-   Essential
 -   Manages the battlefield disc
+-   Reads and communicates everything to the team
 
 ### Wizard
 
 -   Your main job is to manage, prepare and cast spells
+-   Manages cards and combines them using his spellbook to prepare spells, can prepare up to 4 spells per fight
 -   You are the main enemy-defeater
+-   Adds an extra wave as a balance mechanic
 
 ### Rogue
 
 -   Your main job is to disable traps, scout and manage items
+-   Master of the location (only available when Rogue is in party)
+-   Has to "construct" items according to certain constraints so the team can loot them
+-   Solves some simple puzzles to get rid of traps
+-   Can scout to choose the upcoming enemy
 -   Manages item advancement
 
 ### Cleric
 
 -   Your main job is to manage the party's health and develop wards
+-   Essential
+-   Can place Wards on specific board spaces which do different things
+-   Can choose Boons to give to himself or his companions
 -   Manages Health and Boons
 
 ## Events
@@ -70,6 +80,23 @@
 -   Cunning costs increased by 1. Trap levels decreased by 1.
 
 ## Sample turn
+
+### Version 2
+
+#### Chronology
+
+1.  Wizard chooses which distribution of 7 cards he will prepare (among Essence, Reach and Effect)
+WAVE 1
+2.  Fighter starts the clock and draws the first enemy, he communicates its stats (Health, Damage, Weaknesses, Strengths, Speed, Reach)
+3.  Rogue draws the first location card. He also communicates the different Treasures found in the room. He starts searching for the first treasure. At any point he may decide to attempt to disarm a trap.
+4.  Wizard draws a card from each of his piles and keeps two of them. He will communicate his possible spells as he finds them.
+5.  Cleric draws three Boon cards and must choose to keep only one.
+6.  Fighter places the enemy on its starting square and may move each character up to one square in any direction.
+WAVE 2
+7.  Fighter draws the second enemy, he communicates its stats (Health, Damage, Weaknesses, Strengths, Speed, Reach)
+8.  Wizard draws a card from each of his piles and keeps two of them. He will communicate his possible spells as he finds them.
+9.  Cleric draws three Boon cards and must choose to keep only one.
+
 
 ### Playing all four, drawing Skeletons! in River of lava with Unstable terrain.
 

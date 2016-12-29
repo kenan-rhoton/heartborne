@@ -50,3 +50,23 @@ It's a 2 player strategy game where each chooses a faction to fight the other, a
 ### War tokens
 
 -   Placing a war token on a scouted opposing token allows you to benefit from it when it is PUBLIC and JUSTIFIED.
+
+
+# Deck of cards version
+
+## The "viable" strategies
+
+-   Herbivore (Appeased): Settle quickly and focus on expansion, speeding your civilization's influence, developing breadth-first and having a very strong foundation. Out-influence everyone.
+-   Piscivore (Merchants): Settle quickly and focus on exploiting and building a massive city, developing depth-first. Out-prosper everyone.
+-   Carnivore (Titans): Focus on exploiting and expanding just enough to maximize your extermination capabilities. Kill everyone.
+-   Omnivore (Nomads): Explore a lot and improvise with what you find, obtaining some very weird but very strong exploits.
+
+## Actions
+
+-   Explore (Draw land cards)
+-   Build (Construct a building on a land)
+-   Develop (Upgrade an existing building)
+
+## Land cards
+
+## Buildings
