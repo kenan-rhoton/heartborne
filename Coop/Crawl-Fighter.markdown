@@ -42,6 +42,12 @@ Deathknight - 3 HP, Hits for 1 damage every turn in melee, No Doom
 
 ### Weapon deck
 
+Shortsword - Default, all melee at +1
+Longsword - All melee + orthogonal step
+Javelin - Orthogonal melee + all far (only once)
+Mace - All melee, orthogonal at +1
+Bow - All far
+
 
 ## Phases
 ### Prepare
@@ -57,8 +63,7 @@ Deathknight - 3 HP, Hits for 1 damage every turn in melee, No Doom
 9.  Move Fighter
 10. Choose weapon
 11. Assign Strength to an Attack
-12. Choose whether to Overexert
-13. FIGHT
+12. FIGHT
 
 ### Fight
 
@@ -66,7 +71,6 @@ Deathknight - 3 HP, Hits for 1 damage every turn in melee, No Doom
 2.  When an enemy enters a square you have Strength on, you throw a die for each Strength allocated.
     If you score enough hits, the enemy is slain.
     Any die that are misses move one Strength into your Fatigue area.
-    You may spend 1 HP to turn a miss into a hit, but you will lose the Strength anyway.
 3.  Any enemy that becomes adjacent to you and survives will trigger its "Doom" effect and die.
 4.  If you survive the onslaught, all Strength points that you allocated this wave are lost.
 
