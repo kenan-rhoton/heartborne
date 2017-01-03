@@ -16,22 +16,51 @@ Boss deck (x10)
 Weapon deck (x10)
 
 
-Starts with 5/5 Str and 5/5 HP
+Starts with 8/8 Str and 5/5 HP
 
-## Prepare
+### Attack Board
+
+X  X  X
+ XXXXX
+ XXXXX
+XXXOXXX
+ XXXXX
+ XXXXX
+X  X  X
+
+### Minion deck
+
+Skeleton Warrior - 1 HP, ^, Doom: Wave damage
+Goblin Archer - 1 HP, \*, Shoots for 1 damage for Wave turns, Doom: None
+Orc - Wave HP, <>, Doom: 1 damage
+
+
+### Boss deck
+
+Goblin King - 2 HP, /, Doom: Wave + 2 damage
+Deathknight - 3 HP, Hits for 1 damage every turn in melee, No Doom
+
+### Weapon deck
+
+
+## Phases
+### Prepare
 
 1.  Dude appears
 2.  Move Fighter
 3.  Assign Strength to an Attack
-4.  Boss appears
-5.  Move dude
-6.  Move Fighter
-7.  Choose weapon
-8.  Assign Strength to an Attack
-9.  Choose whether to Overexert
-10. FIGHT
+4.  Dude appears
+5.  Move Fighter
+6.  Assign Strength to an Attack
+7.  Boss appears
+8.  Move dude
+9.  Move Fighter
+10. Choose weapon
+11. Assign Strength to an Attack
+12. Choose whether to Overexert
+13. FIGHT
 
-## Fight
+### Fight
 
 1.  Enemies in turns move 1 space closer to you. You may move them to any square as long as the distance decreases with you.
 2.  When an enemy enters a square you have Strength on, you throw a die for each Strength allocated.
@@ -41,7 +70,7 @@ Starts with 5/5 Str and 5/5 HP
 3.  Any enemy that becomes adjacent to you and survives will trigger its "Doom" effect and die.
 4.  If you survive the onslaught, all Strength points that you allocated this wave are lost.
 
-## Rest
+### Rest
 
-You recover 2 Strength and 1 HP.
+You recover 3 Strength and 1 HP.
 
